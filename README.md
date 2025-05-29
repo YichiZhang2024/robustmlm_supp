@@ -10,4 +10,4 @@ Supplemental materials for manuscript on assumption violations of multilevel mod
     - [larger tau0 simulation file](https://github.com/YichiZhang2024/robustmlm_supp/blob/main/supplemental_sim_tau.R)
 
 ### Reference
-Zhang, Y., Lai, M.H.C.(2024) Evaluating two small-sample corrections for fixed-effects standard errors and inferences in multilevel models with heteroscedastic, unbalanced, clustered data. *Behavior Research Methods 56*, 5930–5946. https://doi.org/10.3758/s13428-023-02325-9
+Zhang, Y.,& Lai, M.H.C.(2024). Evaluating two small-sample corrections for fixed-effects standard errors and inferences in multilevel models with heteroscedastic, unbalanced, clustered data. *Behavior Research Methods 56*, 5930–5946. https://doi.org/10.3758/s13428-023-02325-9
